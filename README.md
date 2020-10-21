@@ -1,6 +1,6 @@
 # coronavirus_tracker
 
-Flutter REST API Course Udemy 
+COVID-19 Tracker using REST API and Flutter
 
 ## Getting Started
 
