@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: coronavirus_tracker
+  annotations:
+    github.com/project-slug: syakirwong/coronavirus_tracker
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
